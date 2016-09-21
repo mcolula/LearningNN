@@ -1,0 +1,4 @@
+plot 'out.dat' index 0 with points lc rgb 'red', \
+     ''         index 1 with points lc rgb 'blue'
+
+pause 100
